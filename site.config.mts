@@ -8,7 +8,7 @@ export interface SocialLink {
 }
 
 export default {
-	title: 'Xiaoyuan Photo Portfolio',
+	title: 'Xiaoyuan Zhang Photography',
 	favicon: 'favicon.ico',
 	owner: 'Xiaoyuan Zhang',
 	profileImage: 'profile.webp',
