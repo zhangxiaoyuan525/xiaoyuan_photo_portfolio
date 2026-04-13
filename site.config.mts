@@ -8,19 +8,19 @@ export interface SocialLink {
 }
 
 export default {
-	title: 'SR',
+	title: 'Xiaoyuan Zhang Photography',
 	favicon: 'favicon.ico',
-	owner: 'Sara Richard',
+	owner: 'Xiaoyuan Zhang',
 	profileImage: 'profile.webp',
 	socialLinks: [
 		{
 			name: 'GitHub',
-			url: 'https://github.com/rockem/astro-photography-portfolio',
+			url: 'https://github.com/zhangxiaoyuan525/xiaoyuan_photo_portfolio',
 			icon: Github,
 		} as SocialLink,
 		{
 			name: 'Instagram',
-			url: 'https://www.instagram.com',
+			url: '',
 			icon: Instagram,
 		} as SocialLink,
 	],
