@@ -11,7 +11,7 @@ export default {
 	title: 'Xiaoyuan Zhang Photography',
 	favicon: 'favicon.ico',
 	owner: 'Xiaoyuan Zhang',
-	profileImage: 'profile.webp',
+	profileImage: 'profile.JPG',
 	socialLinks: [
 		{
 			name: 'GitHub',
