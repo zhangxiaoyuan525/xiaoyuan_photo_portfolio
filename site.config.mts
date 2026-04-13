@@ -4,23 +4,23 @@ import { Github, Instagram } from 'lucide-astro';
 export interface SocialLink {
 	name: string;
 	url: string;
-	icon: AstroInstance;
+	icon: any;
 }
 
 export default {
-	title: 'SR',
+	title: 'Xiaoyuan Photo Portfolio',
 	favicon: 'favicon.ico',
-	owner: 'Sara Richard',
+	owner: 'Xiaoyuan Zhang',
 	profileImage: 'profile.webp',
 	socialLinks: [
 		{
 			name: 'GitHub',
-			url: 'https://github.com/rockem/astro-photography-portfolio',
+			url: 'https://github.com/zhangxiaoyuan525/xiaoyuan_photo_portfolio',
 			icon: Github,
 		} as SocialLink,
 		{
 			name: 'Instagram',
-			url: 'https://www.instagram.com',
+			url: '',
 			icon: Instagram,
 		} as SocialLink,
 	],
